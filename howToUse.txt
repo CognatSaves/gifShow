@@ -1,0 +1,6 @@
+npm run watch - for js file creation in dist if change smth.
+use index.html to start
+ATTENTION - this code has one problem - sometimes you can see the result, if start directly,
+sometimes not. Start index.html from IDE, I use webstorm.
+Double click to save smth.
+Delete all saves - clear localStorage by command
